@@ -32,4 +32,4 @@ Option 3: copy the script to Jupyter notebook and run the script as you usually 
 
 If you still have no ideas about the script, please reach out to me: liping.zheng.1@warwick.ac.uk. And I will explain to you.
 
-Hope you enjoy this project!
+# Hope you enjoy this project!
